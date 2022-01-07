@@ -4,7 +4,7 @@ object hello
     {
         print("\n\n>>>>> START OF PROGRAM <<<<<\n\n")
         
-        println("Hello World.")
+        println("Hello World - NEW FEATURE")
         
         print("\n\n>>>>> END OF PROGRAM <<<<<\n\n")
     }
