@@ -1,4 +1,8 @@
 name := "hello"
-version := "1.1 - text edit from text_edit branch"
+<<<<<<< Updated upstream
+version := "1.1 - stash the change"
+=======
+version := "1.1 - stash the change"
+>>>>>>> Stashed changes
 scalaVersion := "2.13.7"
 
