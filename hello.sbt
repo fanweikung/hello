@@ -1,8 +1,4 @@
 name := "hello"
-<<<<<<< Updated upstream
-version := "1.1 - stash the change"
-=======
-version := "1.1 - stash the change"
->>>>>>> Stashed changes
+version := "1.1 - non_tracking"
 scalaVersion := "2.13.7"
 
