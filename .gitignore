@@ -1,4 +1,4 @@
 *.txt
 *.zip
 *.class
-*.ignore
+*.cache
